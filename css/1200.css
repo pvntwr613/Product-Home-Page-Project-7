@@ -1,0 +1,28 @@
+/* Responsive screen-1200px */
+
+@media screen and (max-width:1200px)  {
+
+    .left-section h3 {
+        font-size: 35px;
+        font-weight: 400;
+        font-family: 'poppins';
+    }
+ 
+    .headphone-div img:nth-child(3) {
+        height: 380px;
+    }
+
+    .dots {
+        top: 30%;
+    }
+
+    .right-section button {
+        top: 65%;
+        bottom: auto;
+    }
+   .discount-content h1 {
+    font-size: 40px;
+    margin-left: 10px;
+   }
+    
+}
